@@ -1,0 +1,26 @@
+﻿Difficulty 1
+
+    - Initialize a 2 Dimensional array for the minefield with bomb cells as '1' and safe cells with '0'
+    - Initialize relative positions that can be moved in to in to neighbourWindow
+    - To find the safe path Apply Breadth first search algorithm
+        - Find the first field from any safe cell in the top row
+        - Enqueue it to a queue
+        - Define a parent-map to establish the relationship between child fields and parent fields along the path.
+        - Define a 2 Dimensional array to store the already visited fields
+        - Continue exploring neighbour fields until the queue gets empty
+           - If there are no possible moves, return to the starting point.
+           - Otherwise, continue exploring neighboring cells while avoiding bombs.
+           - Once the dog reaches a safe cell in the final row, backtrack using the parent map to determine the safe path.
+
+Difficulty 02
+
+    - Initialize a 2 Dimensional array for the minefield with bomb cells as '1' and safe cells with '0'
+    - Initialize relative positions that can be moved in to neighbourWindow
+    - To find the safe path Apply Breadth first search algorithm
+        - Find the first field from any safe cell in the top row
+        - Define a 2 Dimensional array to store the already visited fields
+        - Continue exploring neighbour fields until the queue gets empty
+           - If there are no possible moves, return to the starting point.
+           - Otherwise, continue exploring neighboring cells while avoiding bombs.
+           - Once the dog reaches a safe cell in the final row, backtrack using the parent map to determine the safe path.
+        - Print the Safe paths for each iteration

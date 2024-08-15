@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\User\source\repos\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\User\source\repos\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\User\source\repos\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\User\source\repos\Task1\Task1\obj\Debug\Task1.pdb
+D:\Sitecore Assignment - Udara Kurukulasooriya\Sitecore Assignment - Udara Kurukulasooriya\Task1\Task1\bin\Debug\Task1.exe.config
+D:\Sitecore Assignment - Udara Kurukulasooriya\Sitecore Assignment - Udara Kurukulasooriya\Task1\Task1\bin\Debug\Task1.exe
+D:\Sitecore Assignment - Udara Kurukulasooriya\Sitecore Assignment - Udara Kurukulasooriya\Task1\Task1\bin\Debug\Task1.pdb
+D:\Sitecore Assignment - Udara Kurukulasooriya\Sitecore Assignment - Udara Kurukulasooriya\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\Sitecore Assignment - Udara Kurukulasooriya\Sitecore Assignment - Udara Kurukulasooriya\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Sitecore Assignment - Udara Kurukulasooriya\Sitecore Assignment - Udara Kurukulasooriya\Task1\Task1\obj\Debug\Task1.exe
+D:\Sitecore Assignment - Udara Kurukulasooriya\Sitecore Assignment - Udara Kurukulasooriya\Task1\Task1\obj\Debug\Task1.pdb

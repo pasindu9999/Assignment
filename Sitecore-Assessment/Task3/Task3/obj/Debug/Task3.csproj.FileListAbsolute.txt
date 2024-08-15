@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\User\source\repos\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\User\source\repos\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\User\source\repos\Task3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\User\source\repos\Task3\Task3\obj\Debug\Task3.pdb
+C:\Users\User\source\repos\Task3 - Copy\Task3\bin\Debug\Task3.exe.config
+C:\Users\User\source\repos\Task3 - Copy\Task3\bin\Debug\Task3.exe
+C:\Users\User\source\repos\Task3 - Copy\Task3\bin\Debug\Task3.pdb
+C:\Users\User\source\repos\Task3 - Copy\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Task3 - Copy\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task3 - Copy\Task3\obj\Debug\Task3.exe
+C:\Users\User\source\repos\Task3 - Copy\Task3\obj\Debug\Task3.pdb
+D:\Sitecore Assignment - Udara Kurukulasooriya\Sitecore Assignment - Udara Kurukulasooriya\Task3\Task3\bin\Debug\Task3.exe.config
+D:\Sitecore Assignment - Udara Kurukulasooriya\Sitecore Assignment - Udara Kurukulasooriya\Task3\Task3\bin\Debug\Task3.exe
+D:\Sitecore Assignment - Udara Kurukulasooriya\Sitecore Assignment - Udara Kurukulasooriya\Task3\Task3\bin\Debug\Task3.pdb
+D:\Sitecore Assignment - Udara Kurukulasooriya\Sitecore Assignment - Udara Kurukulasooriya\Task3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\Sitecore Assignment - Udara Kurukulasooriya\Sitecore Assignment - Udara Kurukulasooriya\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\Sitecore Assignment - Udara Kurukulasooriya\Sitecore Assignment - Udara Kurukulasooriya\Task3\Task3\obj\Debug\Task3.exe
+D:\Sitecore Assignment - Udara Kurukulasooriya\Sitecore Assignment - Udara Kurukulasooriya\Task3\Task3\obj\Debug\Task3.pdb
